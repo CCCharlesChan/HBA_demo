@@ -6,5 +6,6 @@ Simply open script /HBA_demo.m in MATLAB and run (Optimization toolbox required)
 
 ![HBA Current Response](https://github.com/CCCharlesChan/HBA_demo/blob/master/fig_demo.png)
 
-# Communication
-Correspondence should be addressed to [Charles Chen](mailto:zcchen@stanford.edu?subject=[GitHub]%20HBA%20for%20Neural%20Interfaces).
+# Miscellaneous
+Correspondence should be addressed to [Charles](mailto:zcchen@stanford.edu?subject=[GitHub]%20HBA%20for%20Neural%20Interfaces) ( zcchen AT stanford DOT edu ).
+Citation: Chen, Zhijie Charles, Bingyi Wang, and Daniel Palanker. "Harmonic-Balance Circuit Analysis for Electro-Neural Interfaces." bioRxiv (2020).
