@@ -4,7 +4,7 @@ We demonstrate the application of harmonic-balance analysis in modeling the circ
 # How to Run
 Simply open script /HBA_demo.m in MATLAB and run (Optimization toolbox required). The code was developed with MATLAB R2017a and might experience compatibility issue with earlier/later versions. See inline documentation for detailed explanation of the code. The authors expect the following figure upon the completion of the script -
 
-![HBA Current Response](https://octodex.github.com/images/yaktocat.png)
+![HBA Current Response](https://github.com/CCCharlesChan/HBA_demo/blob/master/fig_demo.png)
 
 # Communication
 Correspondence should be addressed to [Charles Chen](mailto:zcchen@stanford.edu?subject=[GitHub]%20HBA%20for%20Neural%20Interfaces).
